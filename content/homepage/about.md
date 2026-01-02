@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: '我们的优势'
 weight: 2
 background: ''
-button: 'About Us'
+button: '关于我们'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+我们与众不同，致力于为您提供卓越的服务和体验。我们专注于为客户创造价值，并以专业的态度对待每一个项目。

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hugo Hero Theme</title>
+    <title>Pages on Hugo Hero 主题</title>
     <link>http://localhost:1313/pages/</link>
-    <description>Recent content in Pages on Hugo Hero Theme</description>
+    <description>Recent content in Pages on Hugo Hero 主题</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>关于</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
-      <title>History</title>
+      <title>历史</title>
       <link>http://localhost:1313/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       <guid>http://localhost:1313/history/</guid>
-      <description>&lt;h1 id=&#34;about-heading&#34;&gt;About Heading&lt;/h1&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/zglUlG8k47I/1600x500 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/_v-EHHKKW3w/1600x700 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6 offset-md-6&#34;&gt;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;关于标题&#34;&gt;关于标题&lt;/h1&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/zglUlG8k47I/1600x500 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xA;          &lt;p&gt;没有限制，我们致力于为客户提供卓越的服务和解决方案。我们相信通过创新和专业，可以为客户创造无限的价值。我们的团队拥有丰富的经验和专业知识，能够应对各种挑战，为客户提供最好的服务。&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/_v-EHHKKW3w/1600x700 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6 offset-md-6&#34;&gt;&#xA;          &lt;p&gt;我们始终坚持以诚信为本，以绩效为导向。我们相信只有通过诚信经营和卓越绩效，才能赢得客户的信任和支持。我们的团队致力于为客户提供高质量的服务，并不断追求卓越的表现。&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;    &lt;div class=&#34;strip bg-primary bg-cover bg-position-top bg-overlay&#34; style=&#34;background-image: url(&#39; /&#39;);&#34;&gt;&#xA;      &lt;div class=&#34;container pt-8 pb-8 pb-md-12 pt-md-12&#34;&gt;&#xA;        &lt;div class=&#34;row justify-content-center&#34;&gt;&#xA;          &lt;div class=&#34;col-12 col-md-8 text-center text-white&#34;&gt;&#xA;            &lt;p&gt;我们相信回馈社会是我们的责任。我们不仅致力于为客户提供优质服务，也积极参与社会公益事业，为社会贡献我们的力量。&lt;/p&gt;&#xA;&#xA;            &#xA;                &lt;a class=&#34;button button-white&#34; href=&#34;http://localhost:1313/contact&#34;&gt;联系我们&lt;/a&gt;&#xA;            &#xA;          &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &#xA;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

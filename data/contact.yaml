@@ -2,27 +2,27 @@ email: 'example@example.com'
 phone: 'XXXX XXX XXX'
 businessName: 'Hugo Serif'
 address: |
-  123 Some Street
-  City, State 12345
+  某街道123号
+  城市, 省份 12345
 hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
+  - day: 周一
+    open: 上午8:30
+    close: 下午5:00
+  - day: 周二
+    open: 上午8:30
+    close: 下午5:00
+  - day: 周三
+    open: 上午8:30
+    close: 下午5:00
+  - day: 周四
+    open: 上午8:30
+    close: 下午5:00
+  - day: 周五
+    open: 上午8:30
+    close: 下午5:00
+  - day: 周六
+    open: 休息
     close:
-  - day: Sunday
-    open: Closed
+  - day: 周日
+    open: 休息
     close:

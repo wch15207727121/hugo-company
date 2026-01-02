@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>作品 on Hugo Hero Theme</title>
+    <link>http://localhost:1313/zh-cn/work/</link>
+    <description>Recent content in 作品 on Hugo Hero Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>秋季广场</title>
+      <link>http://localhost:1313/zh-cn/work/fall-plaza/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/zh-cn/work/fall-plaza/</guid>
+      <description>&lt;p&gt;这个项目展示了我们在公共空间重新开发方面的专业能力。我们为这个位于西班牙的广场项目提供了全面的财务咨询和商业规划服务。&lt;/p&gt;&#xA;&lt;p&gt;通过深入的财务分析和战略规划，我们帮助客户实现了项目的财务目标，同时为社区创造了持久的价值。项目的成功证明了我们团队的专业能力和对客户成功的承诺。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>现代化医院</title>
+      <link>http://localhost:1313/zh-cn/work/modern-hospital/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/zh-cn/work/modern-hospital/</guid>
+      <description>&lt;p&gt;我们为这个现代化医院扩建项目提供了全面的财务管理和咨询服务。这个复杂的项目需要细致的预算规划、成本控制和合规性管理。&lt;/p&gt;&#xA;&lt;p&gt;我们的团队与医院管理层和建筑师密切合作，确保项目在预算内按时完成，同时满足所有监管要求。项目成功展示了我们在大型基础设施项目方面的专业能力。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>货运码头</title>
+      <link>http://localhost:1313/zh-cn/work/cargo-terminal/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/zh-cn/work/cargo-terminal/</guid>
+      <description>&lt;p&gt;我们为这个大型货运码头项目提供了全面的财务咨询和项目管理服务。该项目涉及复杂的建设规划、预算管理和合规性审查。&lt;/p&gt;&#xA;&lt;p&gt;通过我们的专业服务，项目得以顺利进行，预算得到有效控制，所有法规要求都得到满足。我们与项目团队紧密合作，确保每个阶段都符合最高的专业标准。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
